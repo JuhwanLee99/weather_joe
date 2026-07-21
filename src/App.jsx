@@ -289,7 +289,7 @@ export default function App() {
             cozy ? "text-slate-400" : "text-slate-500"
           }`}
         >
-          장마철 레이더 보는 인턴 옆에서 훈수 두는 만년 사수 시뮬레이터 — 무릎이 슈퍼컴을 이긴다
+          장마철 레이더 보는 인턴 옆에서 훈수 두는 4년차 사수 시뮬레이터 — 무릎이 슈퍼컴을 이긴다
         </p>
       </header>
 

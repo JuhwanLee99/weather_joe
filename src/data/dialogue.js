@@ -132,7 +132,7 @@ export const REFRESH_ESCALATION = [
 export const KNEE_LINES = [
   "비 와. 확정이야. 무릎이 그래.",
   "슈퍼컴은 유동적이래도 내 무릎은 단정적이다.",
-  "20년치 데이터가 이 무릎에 다 들었어. 온다.",
+  "4년치 짬이 이 무릎에 다 들었어. 온다.",
 ]
 
 export const UMBRELLA_ON = "네가 우산 챙기면 비가 안 와. 이게 이 바닥 진리다."

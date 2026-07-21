@@ -1,4 +1,4 @@
-// 조 매니저 — 옆자리 만년 사수. 데드팬 표정은 눈썹 각도로만.
+// 조 매니저 — 옆자리 4년차 사수. 데드팬 표정은 눈썹 각도로만.
 // props: eyebrow(각도), mouthOpen, kneePulse, umbrella, cozy
 
 const SKIN = "#E8B98F"

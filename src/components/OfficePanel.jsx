@@ -34,7 +34,7 @@ export default function OfficePanel({ speech, mentor, cozy }) {
           >
             옆자리 · 조 매니저
             <span className="ml-1 hidden text-[11px] font-medium opacity-70 sm:inline">
-              (만년 매니저 20년차)
+              (4년차 매니저)
             </span>
           </div>
           <div className="mt-2 flex min-h-[60px] items-start lg:min-h-[92px] lg:justify-center">
