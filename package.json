@@ -1,0 +1,22 @@
+{
+  "name": "rain-radar-tease",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "장마철 기상청 초단기 강수예측 보다가 사수한테 놀림받는 상황 밈 웹",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@vitejs/plugin-react": "^4.7.0",
+    "tailwindcss": "^4.1.11",
+    "vite": "^6.3.5"
+  }
+}
